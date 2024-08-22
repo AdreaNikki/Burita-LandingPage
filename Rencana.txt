@@ -2,4 +2,5 @@ Rencana hari ini :
 -Belajar git dan github
 -membuat form login
 >menggunakan css
+>menggunakan html]
 >menggunakan javascript
