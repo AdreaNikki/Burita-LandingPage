@@ -1,4 +1,4 @@
 Hallo ini saya lagi percobaan untuk membaut repository menggunakan git dan github dan menghubungkannya.
 -Resolusi bulan ini dan kedepanya :
 -Saya ingin menjadi web developer bagian frontend
--Saya ingin jadi streamer di youtube
+-Saya ingin membuat game dan menjadi gamedev
