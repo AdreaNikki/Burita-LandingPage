@@ -1,0 +1,3 @@
+Rencana hari ini :
+-Belajar git dan github
+-membuat form login
